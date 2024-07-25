@@ -9,7 +9,7 @@
 
 - 🏢 I'm a Front End Developer
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with HTML5, CSS3, javaScript, Bootstrap, React Js, Redux JS or anything related to web development.
+- 💬 Ask me about my experience with HTML5, CSS3, javaScript, Bootstrap, Tailwind CSS, React  Js, Redux JS, Material UI or anything related to web development.
 - ⚡ Fun Fact : I know all Programming Memes🤩
 
 <h3 align="center">Reach To Me</h3>
