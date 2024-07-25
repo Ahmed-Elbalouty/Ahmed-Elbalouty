@@ -27,8 +27,11 @@
   <code><img title="CSS" height="45" src="assets/css.svg"></code>
   <code><img title="JavaScript" height="45" src="assets/javascript.svg"></code>
   <code><img title="Bootstrap" height="45" src="assets/bootstrap.svg"></code>
+  <code><img title="Tailwind CSS" height="45" src="assets/tailwind-css.png"></code>
   <code><img title="React JS" height="45" src="assets/reactjs.svg"></code>
   <code><img title="Redux JS" height="45" src="assets/redux.svg"></code>
+  <code><img title="Recoil" height="45" src="assets/recoil.svg"></code>
+  <code><img title="Material UI" height="45" src="assets/material-ui.png"></code>
   <code><img title="Git" height="45" src="assets/git.svg"></code>
   <code><img title="GitHub" height="45" src="assets/github.svg"></code>
   <code><img title="JQuery" height="45" src="assets/jquery.svg"></code>
